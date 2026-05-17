@@ -12,28 +12,4 @@ nav a{
 margin: 10px;
 text-decoration: none;
 font-weight: bold;
-}body {
-  font-family: Arial;
-  text-align: center;
-  background-color: #f2f2f2;
-}
-
-h1 {
-  color: blue;
-}
-
-nav {
-  background-color: #333;
-  padding: 10px;
-}
-
-nav a {
-  color: white;
-  margin: 10px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-nav a:hover {
-  color: #38bdf8;
 }
